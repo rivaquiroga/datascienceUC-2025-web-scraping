@@ -4,7 +4,7 @@ En esta clase del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/)
 
 ## Preparación
 
-Todas las demostraciones durante la sesión se harán usando un script de Python en VS Code, ya que nos permite compartir el código que escribimos _en vivo_ a través de un enlace. Si prefieres trabajar en un notebook, ya sea de forma local o en Google Colab, no hay problema. 
+Todas las demostraciones durante la sesión se harán usando un script de Python en [Positron](https://positron.posit.co/), ya que nos va a permitir compartir el código que escribimos _en vivo_ a través de un enlace. Si prefieres trabajar en un notebook, ya sea de forma local o en Google Colab, no hay problema. 
 
 Para realizar las actividades planificadas necesitarás las librerías `request`, `beautifulsoup4` y `pandas`. Se pueden instalar desde [PyPI](https://pypi.org/) con `pip`. No olvides agregar un signo de exclamación al inicio de cada línea si es que estás en un notebook:
 
