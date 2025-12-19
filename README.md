@@ -55,27 +55,27 @@ Durante la clase realizaremos una serie de actividades para poner en práctica l
 
 :link: [Página web]()
 
-:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/6e2mwni4mzxtl6asgjalx/ejericicio-1_extraer-texto.py?rlkey=jb8mar821cl064mllosj0q3ya&dl=0)
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/6e2mwni4mzxtl6asgjalx/ejercicio-1_extraer-texto.py?rlkey=jb8mar821cl064mllosj0q3ya&dl=0)
 
 
 ### Ejercicio 2: extraer tablas
 
 :link: [Página web 1](https://www.enap.cl/informacion-comercial/tabla-de-precios-de-paridad) | [Página web 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
-:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/giusljufp9c2z4risdcki/ejericicio-2_extraer-tablas.py?rlkey=m3mgifkbmwd6l715n5bmn0lmc&dl=0)
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/giusljufp9c2z4risdcki/ejercicio-2_extraer-tablas.py?rlkey=m3mgifkbmwd6l715n5bmn0lmc&dl=0)
 
 ### Ejercicio 3: extraer enlaces y descargar archivos
 
 :link: [Página web](https://es.wikipedia.org/wiki/Computadora)
 
-:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/xqv5ufcmjblhey1m1ff69/ejericicio-3_descargar-archivos.py?rlkey=65gzeihebr2bjs6uzc8s0sfpd&dl=0﻿﻿﻿)
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/7l70xqfyuij18xrkj9ysn/ejercicio-3_descargar-archivos.py?rlkey=iemx2bge7gwm8iq35io21iin7&dl=0)
 
 
 ### Ejercicio 4: demo selenium
 
-:link: [Página web]()
+:link: [Página web](https://www.memoriachilena.gob.cl)
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/qhwgye24wckube1ktqffz/ejercicio-4_demo-selenium.py?rlkey=fa6d0ahhqq5466kgth254lk1e&dl=0)
 
 
 ## Recursos adicionales
